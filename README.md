@@ -40,7 +40,7 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 # :moneybag: [Donate](https://saweria.co/arthasyarif)
 
 # :briefcase: Barang & Bahan
-- Arduino Uno
+- NodeMCU Esp 8266
 - Lcd I2c
 - I2c Module
 - Kabel Male & Female
